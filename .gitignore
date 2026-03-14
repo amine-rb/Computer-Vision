@@ -1,2 +1,11 @@
 venv/
 data/
+.DS_Store
+venv/
+__pycache__/
+*.pyc
+outputs/
+checkpoints/
+*pth
+.gitignore*.tar.gz
+*.pth
