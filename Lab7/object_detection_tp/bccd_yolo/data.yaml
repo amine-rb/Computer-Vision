@@ -1,0 +1,8 @@
+path: /Users/amine_rb/Desktop/Master IASD/coding/Image_Analysis/Lab7/object_detection_tp/bccd_yolo
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: RBC
+  1: WBC
+  2: Platelets
